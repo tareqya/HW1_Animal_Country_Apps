@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Blue whale", "Giraffe", "Hippopotamus"],
+      "answer": "Blue whale"
+    },
+    {
+      "question": "What animal can change its color to blend in with its surroundings?",
+      "options": ["Chameleon", "Sloth", "Kangaroo", "Gorilla"],
+      "answer": "Chameleon"
+    },
+    {
+      "question": "What animal has the longest neck?",
+      "options": ["Giraffe", "Elephant", "Kangaroo", "Horse"],
+      "answer": "Giraffe"
+    },
+    {
+      "question": "What animal is known for carrying its young in a pouch?",
+      "options": ["Kangaroo", "Panda", "Koala", "Gorilla"],
+      "answer": "Kangaroo"
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "options": ["Lion", "Cheetah", "Leopard", "Hyena"],
+      "answer": "Cheetah"
+    },
+    {
+      "question": "What is the only continent where giraffes live in the wild?",
+      "options": ["Europe", "South America", "Africa", "Asia"],
+      "answer": "Africa"
+    },
+    {
+      "question": "What animal is known for its black and white stripes?",
+      "options": ["Zebra", "Tiger", "Lion", "Jaguar"],
+      "answer": "Zebra"
+    },
+    {
+      "question": "What animal is often called the 'king of the jungle'?",
+      "options": ["Tiger", "Lion", "Leopard", "Panther"],
+      "answer": "Lion"
+    },
+    {
+      "question": "What animal is known for its long, sticky tongue?",
+      "options": ["Anteater", "Sloth", "Hedgehog", "Armadillo"],
+      "answer": "Anteater"
+    },
+    {
+      "question": "What animal is known for its ability to glide through the air?",
+      "options": ["Bat", "Penguin", "Dolphin", "Seagull"],
+      "answer": "Bat"
+    }
+]
+
