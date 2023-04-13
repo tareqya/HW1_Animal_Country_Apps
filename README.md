@@ -2,13 +2,14 @@
 
 Animals App
 
-![image](https://user-images.githubusercontent.com/35847896/231878039-f9bfbe14-8e61-488a-9695-a2cd9503a6bd.png)
+![Screenshot_20230413_234843](https://user-images.githubusercontent.com/35847896/231879614-1f4472b2-00d9-447f-81e6-b30d63be7871.png)
 
-![image](https://user-images.githubusercontent.com/35847896/231878409-577c8712-29a5-49b2-8a7f-eadbc7cd7ed0.png)
+![Screenshot_20230413_234850](https://user-images.githubusercontent.com/35847896/231879628-25dcd7a6-f41f-46a1-b477-c00524b58884.png)
 
 
 Countries App
 
-![image](https://user-images.githubusercontent.com/35847896/231878530-d00b0235-cbeb-4582-9077-9dedf23f9006.png)
+![Screenshot_20230413_234804](https://user-images.githubusercontent.com/35847896/231879447-8ad8e590-25b1-4239-addf-1be2ecdb8197.png)
 
-![image](https://user-images.githubusercontent.com/35847896/231878618-180bd1d2-5e79-4a90-bf90-0a5b7aa247c4.png)
+![Screenshot_20230413_234700](https://user-images.githubusercontent.com/35847896/231879223-0e482c1a-637d-4175-ab7b-8dd17a656501.png)
+
